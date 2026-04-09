@@ -1,5 +1,5 @@
 # Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.sohail
+Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
