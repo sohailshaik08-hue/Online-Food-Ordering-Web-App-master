@@ -1,22 +1,5 @@
-[![DOI](https://zenodo.org/badge/255074370.svg)](https://zenodo.org/doi/10.5281/zenodo.10499090)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/LICENSE)
-[![Code Coverage](https://codecov.io/gh/NCSU-Fall-2022-SE-Project-Team-11/XpensAuditor---Group-11/branch/main/graphs/badge.svg)](https://codecov.io)
-![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/edit/master/README.md)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kaushikjadhav01/Online-Food-Ordering-Web-App)
-![GitHub issues](https://img.shields.io/github/issues/kaushikjadhav01/Online-Food-Ordering-Web-App)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/kaushikjadhav01/Online-Food-Ordering-Web-App.svg)](https://img.shields.io/github/repo-size/kaushikjadhav01/Online-Food-Ordering-Web-App.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kaushikjadhav01/Online-Food-Ordering-Web-App)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/commits/master)
-![GitHub language count](https://img.shields.io/github/languages/count/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![Commit Acitivity](https://img.shields.io/github/commit-activity/m/kaushikjadhav01/Online-Food-Ordering-Web-App)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![Code Size](https://img.shields.io/github/languages/code-size/kaushikjadhav01/Online-Food-Ordering-Web-App)](mpp-backend)
-![GitHub forks](https://img.shields.io/github/forks/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-
 # Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
+Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.sohail
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -30,8 +13,7 @@ Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live
 </details>
 
 ## System Description and Functions
-**Live Demo:** http://food.kajadhav.me<br/>
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
+<img src="https://github.com/sohailshaik08-hue/Online-Food-Ordering-Web-App-master/blob/master/screenshots/99-banner.png"><br/>
 
 **Admin Creds:** <br/>
 Admin Login & Password (You can change this in phpmyadmin):<br/>
@@ -62,8 +44,7 @@ Admin can:<br/>
     <li>Resolve Support Tickets</li>
 </ol>
 
-### Screenshots
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+
 
 ## Built With
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white)
@@ -84,22 +65,5 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 ## Authors
-### Kaushik Jadhav
-<ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
-</ul>
+### Sohail Shaik
 
-## Links
-* [Web site](http://food.kajadhav.me/)
-* [Issue tracker](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/issues)
-* [Source code](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
